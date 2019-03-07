@@ -1,0 +1,77 @@
+RAM_READ_DELAY: 0.0100000000000000
+RAM_WRITE_DELAY: 0.0100000000000000
+BUS_CTRL_DELAY: 2.0000000000000000
+BUS_DATA_DELAY: 10.0000000000000000
+BUS_MAX_CONNECT: 8
+BUS_TABLE_SIZE: 512
+SSD_SIZE: 1
+PACKAGE_SIZE: 1
+DIE_SIZE: 1
+PLANE_SIZE: 4
+PLANE_REG_READ_DELAY: 0.0100000000000000
+PLANE_REG_WRITE_DELAY: 0.0100000000000000
+BLOCK_SIZE: 4
+BLOCK_ERASES: 100
+BLOCK_ERASE_DELAY: 2000.0000000000000000
+PAGE_READ_DELAY: 25.0000000000000000
+PAGE_WRITE_DELAY: 300.0000000000000000
+PAGE_SIZE: 4096
+PAGE_ENABLE_DATA: 1
+MAP_DIRECTORY_SIZE: 100
+FTL_IMPLEMENTATION: 0
+PARALLELISM_MODE: 2
+RAID_NUMBER_OF_PHYSICAL_SSDS: 1
+Number of addressable blocks: 4
+Writing to logical address: 0
+execution time is : 312.020000
+Writing to logical address: 1
+execution time is : 324.020000
+Writing to logical address: 2
+execution time is : 336.020000
+Writing to logical address: 3
+execution time is : 348.020000
+Writing to logical address: 4
+execution time is : 360.020000
+Writing to logical address: 5
+execution time is : 372.020000
+Writing to logical address: 6
+execution time is : 384.020000
+Writing to logical address: 7
+execution time is : 396.020000
+Writing to logical address: 0
+execution time is : 408.020000
+Writing to logical address: 1
+execution time is : 420.020000
+Writing to logical address: 2
+execution time is : 432.020000
+Writing to logical address: 3
+execution time is : 444.020000
+Writing to logical address: 4
+execution time is : 2604.020000
+Writing to logical address: 5
+execution time is : 470.020000
+Writing to logical address: 6
+execution time is : 482.020000
+Writing to logical address: 7
+execution time is : 494.020000
+Writing to logical address: 0
+execution time is : 506.020000
+Writing to logical address: 1
+execution time is : 518.020000
+Writing to logical address: 2
+execution time is : 530.020000
+Writing to logical address: 3
+execution time is : 542.020000
+Total execution time 10683.400000
+Statistics:
+-----------
+FTL Reads: 0	 Writes: 20	 Erases: 1	 Trims: 0
+GC  Reads: 0	 Writes: 0	 Erases: 0
+WL  Reads: 0	 Writes: 0	 Erases: 0
+Log FTL Switch: 0 Partial: 0 Full: 0
+Page FTL Convertions: 0
+Cache Hits: 0 Faults: 0 Hit Ratio: -nan
+Memory Consumption:
+Tranlation: 0 Cache: 0
+Reads: 0 	Writes: 0
+-----------
